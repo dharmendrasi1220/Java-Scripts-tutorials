@@ -1,3 +1,3 @@
 # Java-Scripts-tutorials
 JS tutorials
-Author- Dharmendra Singh 
+Author:- Dharmendra Singh (Amrita Tech)
